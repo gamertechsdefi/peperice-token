@@ -75,8 +75,8 @@ function Main() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 mt-8 gap-4 border-2 border-b-8  border-neutral-600 bg-neutral-900 rounded-lg">
             <div className="bg-green-700 text-white flex flex-col justify-center px-4 py-4 rounded-lg">
-              <h1 className="text-4xl pb-4 ">About $COOK</h1>
-              <p className="text-xl">Ratatouille ($COOK) is a community-driven BSC token launched at $20 mcap, featuring burned liquidity and anti-whale
+              <h1 className="text-4xl pb-4 ">About $PEPERICE</h1>
+              <p className="text-xl">PepeRice is a community-driven BSC token launched at $20 mcap, featuring burned liquidity and anti-whale
                 mechanics. We aim to create massive gains through strategic marketing and strong community growth.</p>
             </div>
 

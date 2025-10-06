@@ -1,5 +1,6 @@
 
 import { Gaegu } from "next/font/google";
+import { McLaren } from "next/font/google";
 import "./globals.css";
 
 
@@ -15,11 +16,17 @@ const gaegu = Gaegu ({
   weight: ["400", "700"],
 });
 
+const mclaren = McLaren ({
+  variable: "--font-mclaren",
+  subsets: ["latin"],
+  weight: "400",
+});
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${gaegu.variable} antialiased`}
+        className={`${gaegu.variable} ${mclaren.variable} antialiased`}
       >
         {children}
       </body>
