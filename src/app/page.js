@@ -117,7 +117,7 @@ function Main() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="text-white bg-neutral-900 px-4 py-4 rounded-lg">
               <p className="pb-4">Total Supply</p>
-              <p className="text-4xl  text-green-300">1,000,000,000,000</p>
+              <p className="text-4xl  text-green-300">2,000,000</p>
             </div>
             <div className="text-white bg-neutral-900 px-4 py-4 rounded-lg">
               <p className="pb-4">Initial Marketcap</p>
