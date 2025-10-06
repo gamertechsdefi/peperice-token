@@ -100,7 +100,7 @@ function Main() {
 
             <div className="bg-green-800 px-4 py-4 text-white rounded-lg">
               <Lock className="w-12 h-12 mb-4" />
-              <h1 className="text-4xl ">Community Take Over</h1>
+              <h1 className="text-4xl ">CTO</h1>
               <p className="text-xl">The project is now in the hands of the Community, by the Community and for the Community</p>
             </div>
 
